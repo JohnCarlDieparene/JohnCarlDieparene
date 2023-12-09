@@ -25,7 +25,7 @@ I am John Carl Dieparene, a passionate individual with a flair for coding and ex
 
 ## Contact Me
 
-- **LinkedIn:** [JohnCarl Dieparene](https://www.linkedin.com/in/john-carl-dieparene-3392a32a3/)
+- **LinkedIn:** [John Carl Dieparene](https://www.linkedin.com/in/john-carl-dieparene-3392a32a3/)
 - **Email:** jcdieparene23@gmail.com
 
 Feel free to connect with me for discussions, collaborations, or just to say hi! 😊
