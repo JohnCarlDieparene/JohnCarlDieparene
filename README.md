@@ -11,7 +11,7 @@ I am John Carl Dieparene, a passionate individual with a flair for coding and ex
   2021-Present
 
 ## Certifications
-
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/cba08c50eb994447beb2be182600bb90)
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5F1ADF987318FB912448D814B07AF337FDCBBAE75D818E6C312DEE7D544E5004)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D239F18B158F0570FEA162418CC4549A0BCC84C8538F019DC278002897757C7)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3C946410018B761A4FDF93C9F2270DB884601ACBE3AB2F71BE0DD8178F20A69A)
