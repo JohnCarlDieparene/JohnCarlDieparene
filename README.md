@@ -16,7 +16,8 @@ I am John Carl Dieparene, a passionate individual with a flair for coding and ex
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D239F18B158F0570FEA162418CC4549A0BCC84C8538F019DC278002897757C7)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3C946410018B761A4FDF93C9F2270DB884601ACBE3AB2F71BE0DD8178F20A69A)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/179c0c66e302420eb8bca36299192db0)
-
+- [Cisco Networking Academy – Ethical Hacker Course](https://www.credly.com/badges/58a6a494-0332-401c-8a55-9ebddedf5788)
+- [Cisco Networking Academy – Introduction to Cybersecurity](https://www.credly.com/badges/5ae14ffe-2d30-442f-9801-884e0956a958)  
 ## Skill Sets
 
 - **Programming:** Java, Javascript
